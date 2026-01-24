@@ -1,0 +1,8 @@
+_data/
+└── navigation.yml
+
+- title: Home
+  url: /
+
+- title: Resources
+  url: /resources/
