@@ -3,11 +3,11 @@
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 theme: minima
-title: National Resource Center for Cystic Fibrosis Foundation
+title: Cystic Fibrosis Microbiome Analysis Core
 description: Supporting research, education, and practice in Microbiome
 
 footer_content: >
-  This resource center is supported by The Cytic Fibrosis Foundation.   The content is solely the responsibility of the authors and does not
+  This resource center is supported by The Cytic Fibrosis Foundation. The content is solely the responsibility of the authors and does not
   necessarily represent the official views of the funding agency.
   <br><br>
   Contact: <a href="mailto:jonathan.harris@cuanschutz.edu">
