@@ -13,9 +13,9 @@ Last updated: January 24, 2026
 - [ENZD2 (PDF)](assets/docs/Experiment.pdf)
 
 ### Publications
--[Transcriptomic and functional responses of the cystic fibrosis airway epithelium to CFTR modulator therapy
+- [Transcriptomic and functional responses of the cystic fibrosis airway epithelium to CFTR modulator therapy
  (2025)](assets/docs/Vlader 2025.pdf)
- -[Phage therapy with nebulized cocktail BX004-A for chronic Pseudomonas aeruginosa infections in cystic fibrosis: a randomized first-in-human trial (2025)](assets/docs/Weiner 2025.pdf)
+- [Phage therapy with nebulized cocktail BX004-A for chronic Pseudomonas aeruginosa infections in cystic fibrosis: a randomized first-in-human trial (2025)](assets/docs/Weiner 2025.pdf)
 - [Detection and identification of fungi in the lower airway of children with and without cystic fibrosis (2023)](assets/docs/O'Connor_Fungi in CF Airway_2023.pdf)
 - [Integrating airway microbiome and blood proteomics data to identify multi-omic networks associated with response to pulmonary infection (2023)](assets/docs/Brenton multi-omic.pdf)
 - [Upper airway microbiota development in infants with cystic fibrosis diagnosed by newborn screen (2023)](assets/docs/BONUS.pdf)
