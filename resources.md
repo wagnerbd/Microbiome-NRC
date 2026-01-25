@@ -3,7 +3,7 @@ layout: page
 title: Resources
 ---
 <p style="font-size: 0.9rem; color: #666;">
-Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
+Last updated: January 24, 2026
 </p>
 
 ### SOPs
