@@ -5,7 +5,7 @@ title: ""
 
 <div style="padding: 2rem 0; border-bottom: 1px solid #e5e5e5;">
   
-# CYSTIC FIBROSIS MICROBIOME ANALYSIS CORE
+#CYSTIC FIBROSIS MICROBIOME ANALYSIS CORE
 
 <p style="font-size: 1.1rem; max-width: 700px;">
   
