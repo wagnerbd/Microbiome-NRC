@@ -2,6 +2,9 @@
 layout: page
 title: Resources
 ---
+<p style="font-size: 0.9rem; color: #666;">
+Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}
+</p>
 
 ### SOPs
 - [SOP (PDF)](assets/docs/SOP.pdf)
