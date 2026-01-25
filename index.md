@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Home
+layout: home
+title: ""
 ---
 
 ## CYSTIC FIBROSIS MICROBIOME ANALYSIS CORE
