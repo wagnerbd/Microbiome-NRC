@@ -6,6 +6,7 @@ title: Home
 ## CYSTIC FIBROSIS MICROBIOME ANALYSIS CORE
 The goal of the Cystic Fibrosis Microbiome Analysis Core is to facilitate best practices in microbiome research for the CF research community. The core has developed SOPs for all steps essential for microbiome analysis of CF clinical samples, including sample collection and processing, bioinformatics, and biostatistics. In addition, the core provides expert consulting and training in all phases of microbiome-based CF projects. 
 
+
 ## National Resource Centers
 
 THE CYSTIC FIBROSIS NATIONAL RESOURCE CENTERS PROVIDE STUDY SPONSORS AND INVESTIGATORS CENTRALIZED EXPERTISE IN OUTCOME MEASURES RELEVANT TO THE CONDUCT OF CF CLINICAL RESEARCH. THESE CENTERS AIM TO ADVANCE NEW BIOMARKERS AND OUTCOME MEASURES THAT WILL BE CRITICAL TO OUR UNDERSTANDING OF CF, AND/OR SERVE AS AUTHORITIES FOR WELL-ESTABLISHED CF OUTCOME MEASURES.
