@@ -5,7 +5,7 @@
 theme: minima
 title: Cystic Fibrosis Microbiome Analysis Core
 description: Supporting research, education, and practice in Microbiome
-
+show_excerpts: false
 footer_content: >
   This resource center is supported by The Cytic Fibrosis Foundation. The content is solely the responsibility of the authors and does not
   necessarily represent the official views of the funding agency.
