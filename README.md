@@ -4,14 +4,6 @@ Public site: https://wagnerbd.github.io/Microbiome-NRC/
 
 This is a static **Jekyll / GitHub Pages** site. No database or local build is needed to add resources.
 
-## First-time installation
-
-1. Back up the existing GitHub repository (or work on a new branch).
-2. Copy the files and folders from this package into the **root** of `wagnerbd/Microbiome-NRC`, replacing the old versions. Keep the `assets/` PDFs.
-3. Delete the obsolete root-level `_default.html`, `navigation.yml`, `index.md`, and `resources.md` if still present. They are replaced by `_layouts/default.html`, `index.html`, and `resources.html`.
-4. In GitHub, open **Settings → Pages** and confirm **Deploy from a branch**, branch **main**, folder **/(root)** (unless the repository already uses a different deployment workflow).
-5. Wait for deployment, then check the homepage, resource filters, PDFs, mobile layout, and footer at https://wagnerbd.github.io/Microbiome-NRC/.
-
 ## Add a PDF (SOP, white paper, or publication)
 
 1. Upload the PDF to `assets/docs/` using **Add file → Upload files** in GitHub. Prefer simple filenames without spaces, e.g. `sop-sputum-processing-v1.pdf`.
@@ -55,7 +47,7 @@ Link to a dedicated GitHub repository, Zenodo, or an appropriate public data rep
 - Search/filter logic: `assets/js/library.js`
 - Site title and GitHub Pages base path: `_config.yml`
 
-## Invite a student to contribute
+## Invite someone to contribute
 
 1. On GitHub, open the repository → **Settings → Collaborators and teams** (or **Collaborators**) → **Add people**.
 2. Invite the student's GitHub username and have them accept the invitation. If available, give **Write** access; on personal repositories, collaborator permissions may be less granular.
