@@ -1,0 +1,52 @@
+# Add one entry per resource. See README.md for instructions.
+- title: Transcriptomic and functional responses of the cystic fibrosis airway epithelium to CFTR modulator therapy
+  type: Publication
+  year: 2025
+  file: /assets/Vlader 2025.pdf
+- title: 'Phage therapy with nebulized cocktail BX004-A for chronic Pseudomonas aeruginosa infections in cystic
+    fibrosis: a randomized first-in-human trial'
+  type: Publication
+  year: 2025
+  file: /assets/Weiner 2025.pdf
+- title: Detection and identification of fungi in the lower airway of children with and without cystic fibrosis
+  type: Publication
+  year: 2023
+  file: /assets/docs/O'Connor_Fungi in CF Airway_2023.pdf
+- title: Integrating airway microbiome and blood proteomics data to identify multi-omic networks associated with
+    response to pulmonary infection
+  type: Publication
+  year: 2023
+  file: /assets/docs/Brenton multi-omic.pdf
+- title: Upper airway microbiota development in infants with cystic fibrosis diagnosed by newborn screen
+  type: Publication
+  year: 2023
+  file: /assets/docs/BONUS.pdf
+- title: Network Analysis to Identify Multi-Omic Correlations in the Lower Airways of Children With Cystic Fibrosis
+  type: Publication
+  year: 2022
+  file: /assets/docs/OConnor_Network Analysis of Microbiome_Frontiers_2022.pdf
+- title: Divergence of bacterial communities in the lower airways of CF patients in early childhood
+  type: Publication
+  year: 2021
+  file: /assets/docs/journal.pone.0257838.pdf
+- title: Modified PCR protocol to increase sensitivity for determination of bacterial community composition
+  type: Publication
+  year: 2021
+  file: /assets/docs/ENZD.pdf
+- title: 'tidyMicro: a pipeline for microbiome data analysis and visualization using the tidyverse in R'
+  type: Publication
+  year: 2021
+  file: /assets/docs/Carpenter_tidyMicro_BMCBioinformatics.pdf
+- title: Changes in Airway Microbiome and Inflammation with Ivacaftor Treatment in Patients with Cystic Fibrosis
+    and the G551D Mutation
+  type: Publication
+  year: 2020
+  file: /assets/docs/harris-et-al-2020.pdf
+- title: On the Use of Diversity Measures in Longitudinal Sequencing Studies of Microbial Communities
+  type: Publication
+  year: 2018
+  file: /assets/docs/Wagner-2018-On-the-use-of-diversity-measures-in.pdf
+- title: Impact of enzymatic digestion on bacterial community composition in CF airway samples
+  type: Publication
+  year: 2017
+  file: /assets/docs/peerj-3362 (1).pdf
