@@ -1,0 +1,11 @@
+---
+layout: default
+title: Resource library
+permalink: /resources/
+---
+<section class="page-banner"><div class="container"><div class="eyebrow">EXPLORE & DOWNLOAD</div><h1>Resource library</h1><p>Find research publications, protocols, guidance, and future code and data releases.</p></div></section>
+<section class="container section"><div class="library-controls"><div><label for="search">Search resources</label><input id="search" type="search" placeholder="Search by title, topic, or year…" autocomplete="off"></div><div><label for="type">Resource type</label><select id="type"><option value="All">All resources</option><option value="SOP">SOPs</option><option value="White paper">White papers</option><option value="Publication">Publications</option><option value="Code & data">Code & datasets</option></select></div></div><p id="result-count" class="result-count" aria-live="polite"></p>
+<div class="resource-grid" id="resource-grid">{% for item in site.data.resources %}<article class="resource-card" data-type="{{ item.type | escape }}" data-search="{{ item.title | append: ' ' | append: item.year | append: ' ' | append: item.description | downcase | escape }}"><div class="resource-meta"><span class="tag">{{ item.type }}</span>{% if item.year %}<span>{{ item.year }}</span>{% endif %}</div><h2>{{ item.title }}</h2>{% if item.description %}<p>{{ item.description }}</p>{% endif %}{% if item.file %}<a class="resource-link" href="{{ item.file | relative_url }}" target="_blank" rel="noopener">View PDF <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>{% elsif item.url %}<a class="resource-link" href="{{ item.url }}" target="_blank" rel="noopener">Open resource <span aria-hidden="true">↗</span><span class="sr-only"> (opens in a new tab)</span></a>{% endif %}</article>{% endfor %}</div>
+<div id="empty" class="empty" hidden><h2>No matching resources</h2><p>Try another search or category. SOPs, white papers, code, and datasets will appear here as they become available.</p></div>
+<p class="library-note">The library currently contains publications. Additional resource types will be added as files are approved for public release.</p></section>
+<script src="{{ '/assets/js/library.js' | relative_url }}" defer></script>

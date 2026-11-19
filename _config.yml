@@ -1,14 +1,7 @@
-#remote_theme: pages-themes/midnight@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-theme: minima
 title: Cystic Fibrosis Microbiome Analysis Core
-description: Supporting research, education, and practice in Microbiome
-show_excerpts: false
-footer_content: >
-  This resource center is supported by The Cystic Fibrosis Foundation. The content is solely the responsibility of the authors and does not
-  necessarily represent the official views of the funding agency.
-  <br><br>
-  Contact: <a href="mailto:jonathan.harris@cuanschutz.edu">
-  jonathan.harris@cuanschutz.edu</a>
+description: Open resources for rigorous and reproducible cystic fibrosis microbiome research
+url: "https://wagnerbd.github.io"
+baseurl: "/Microbiome-NRC"
+markdown: kramdown
+exclude:
+  - README.md
